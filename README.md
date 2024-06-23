@@ -1,11 +1,11 @@
-MyToken Contract
+MyToken Contract:
 This Solidity program is a simple smart contract for creating and managing a custom token on the Ethereum blockchain. The purpose of this program is to demonstrate the basic functionalities of minting and burning tokens, as well as managing token balances for different addresses.
 
-Description
+Description:
 This program is a smart contract written in Solidity, designed to create and manage a custom token named "Prateek" with the abbreviation "PS". It includes functionalities for minting new tokens, burning existing tokens, and maintaining the total supply and balances of tokens for different addresses. This contract serves as an introductory example for those new to Solidity and blockchain development.
 
-Getting Started
-Executing Program
+Getting Started:
+Executing Program:
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
 Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., MyToken.sol). Copy and paste the following code into the file:
@@ -60,12 +60,12 @@ Click on the "burn" function.
 Enter the address from which you want to burn tokens and the number of tokens to burn.
 Click on the "transact" button to execute the function and burn the tokens.
 
-Authors
+Authors:
 Prateek saini
 [prateek6398@gmail.com]
 [22bcs12410@cuchd.in]
 
-License
+License:
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 
